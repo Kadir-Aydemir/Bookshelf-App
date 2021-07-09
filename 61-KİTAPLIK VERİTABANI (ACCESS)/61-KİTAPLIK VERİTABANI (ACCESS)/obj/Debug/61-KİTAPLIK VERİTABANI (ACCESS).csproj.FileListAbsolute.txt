@@ -1,0 +1,10 @@
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\bin\Debug\61-KİTAPLIK VERİTABANI (ACCESS).exe.config
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\bin\Debug\61-KİTAPLIK VERİTABANI (ACCESS).exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\bin\Debug\61-KİTAPLIK VERİTABANI (ACCESS).pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\obj\Debug\61-KİTAPLIK VERİTABANI (ACCESS).csprojAssemblyReference.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\obj\Debug\_61_KİTAPLIK_VERİTABANI__ACCESS_.Form1.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\obj\Debug\_61_KİTAPLIK_VERİTABANI__ACCESS_.Properties.Resources.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\obj\Debug\61-KİTAPLIK VERİTABANI (ACCESS).csproj.GenerateResource.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\obj\Debug\61-KİTAPLIK VERİTABANI (ACCESS).csproj.CoreCompileInputs.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\obj\Debug\61-KİTAPLIK VERİTABANI (ACCESS).exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\61-KİTAPLIK VERİTABANI (ACCESS)\61-KİTAPLIK VERİTABANI (ACCESS)\obj\Debug\61-KİTAPLIK VERİTABANI (ACCESS).pdb
